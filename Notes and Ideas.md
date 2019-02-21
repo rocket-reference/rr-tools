@@ -45,3 +45,4 @@ IMAGES
 SOURCES
 * VG1 - The Martin Company (1960). The Vanguard Satellite Launching Vehicle: An Engineering Summary.
 * VG2 - NASA (1970). Vanguard: A History (NASA SP-4202). The NASA Historical Series. [online] Available at: https://history.nasa.gov/SP-4202.pdf [Accessed 21 Feb. 2019].
+* ST1 - Marshall Space Flight Center. NASA (1972). Skylab Saturn IB Flight Manual (MFSC-MAN-206). [online] Available at: https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19740021163.pdf [Accessed 21 Feb. 2019].
