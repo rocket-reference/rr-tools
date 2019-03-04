@@ -38,8 +38,15 @@ IMAGES
             * images-assets.nasa.gov/image/9139356/9139356~orig.jpg
 * Other Sources
     * https://www.sdfo.org/stl/index.php
+	* NASA Flickr Feed - NASA on the Commons
 			
 SOURCES
 * VG1 - The Martin Company (1960). The Vanguard Satellite Launching Vehicle: An Engineering Summary.
-* VG2 - NASA (1970). Vanguard: A History (NASA SP-4202). The NASA Historical Series. [online] Available at: https://history.nasa.gov/SP-4202.pdf [Accessed 21 Feb. 2019].
-* ST1 - Marshall Space Flight Center. NASA (1972). Skylab Saturn IB Flight Manual (MFSC-MAN-206). [online] Available at: https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19740021163.pdf [Accessed 21 Feb. 2019].
+* VG2 - NASA (1970). Vanguard: A History (NASA SP-4202). The NASA Historical Series. [online] Available at: https://history.nasa.gov/SP-4202.pdf.
+* ST1 - Marshall Space Flight Center. NASA (1972). Skylab Saturn IB Flight Manual (MFSC-MAN-206). [online] Available at: https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19740021163.pdf.
+* FL1 - Cliff - Flickr Account: https://www.flickr.com/photos/nostri-imago/
+* ST2 - NASA - Marshall Space Flight Center (1968). Saturn Illustrated Chronology. [online] Available at: https://history.nasa.gov/MHR-5/contents.htm.
+* SC1 - NASA (2019). Scout Launch Vehicle Program Final Report - Phase VI. Contractor Report NASA-CR-165950. [online] Available at: https://archive.org/details/nasa_techdoc_19820073028/page/n17.
+* SC2 - Design and Development of the Castor IIA Rocket Motor
+* SC3 - Scout User's Manual
+* SC4 - Performance of a UTC FW-4S Solid Propellant Rocket Motor
